@@ -1,4 +1,6 @@
-
+//NAME:MARGARET NJERI IRUNGU
+//REGISTRATION NUMBER:S10-6336-2020
+//Java program to calculate fine rate for overdue days
 
 import java.util.Scanner;
 public class FineRate{
@@ -36,4 +38,5 @@ public class FineRate{
         }
     
     }
+
 }
