@@ -30,10 +30,11 @@ class Car extends Vehicle{
         System.out.println("Seats:" + seats);
     }
 }
-public class Main{
+public class Car{
     public static void main(String[] args){
         Car myCar = new Car("Toyota", 2020, 5);
         //print all the details
         myCar.printDetails();
     }
+
 }
