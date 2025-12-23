@@ -1,7 +1,7 @@
 /*NAME:MARGARET NJERI IRUNGU
 REGISTRATION NUMBER:S10-6336-2020
-Task:write a java code that creates a Savings Account object,depositd
-amount entered byu the user,applis interest
+Task:write a java code that creates a SavingsAccount object,deposits
+amount entered by the user,applies interest
 and isplays final balance */
 import java.util.Scanner;
 class BankAccount{
@@ -32,4 +32,5 @@ public class Bank{
         System.out.println("Final balance:"+ savingsAccount.getBalance());
         scanner.close();
 }
+
 }
